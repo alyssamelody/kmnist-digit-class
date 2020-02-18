@@ -1,1 +1,1 @@
-# Digit Classification using KMNIST
+# Digit Classification using KNN-MNIST
